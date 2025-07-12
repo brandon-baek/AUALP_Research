@@ -1,1 +1,1 @@
-# IMDB-Rating-EDA
+# IMDB Movie Reviews EDA
